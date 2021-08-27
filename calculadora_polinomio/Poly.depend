@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1613176079 source:c:\users\administrador\desktop\heitor\c++\poly\poly-classes.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<limits>
+	"Poly.h"
+
+1613076230 c:\users\administrador\desktop\heitor\c++\poly\poly.h
+	<iostream>
+
+1613157253 source:c:\users\administrador\desktop\heitor\c++\poly\poly-main.cpp
+	<iostream>
+	<cstring>
+	"Poly.h"
+
+1630083060 source:c:\users\heitor\desktop\ufrn\programação avançada\calculadora_polinomio\poly\poly-classes.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	"Poly.h"
+
+1630083883 c:\users\heitor\desktop\ufrn\programação avançada\calculadora_polinomio\poly\poly.h
+	<iostream>
+
+1613157253 source:c:\users\heitor\desktop\ufrn\programação avançada\calculadora_polinomio\poly\poly-main.cpp
+	<iostream>
+	<cstring>
+	"Poly.h"
+
+1630083060 source:c:\users\heitor\desktop\ufrn\programação avançada\calculadora_polinomio\poly-classes.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	"Poly.h"
+
+1630083883 c:\users\heitor\desktop\ufrn\programação avançada\calculadora_polinomio\poly.h
+	<iostream>
+
+1613157253 source:c:\users\heitor\desktop\ufrn\programação avançada\calculadora_polinomio\poly-main.cpp
+	<iostream>
+	<cstring>
+	"Poly.h"
+
