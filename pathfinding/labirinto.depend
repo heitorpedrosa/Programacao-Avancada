@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1599082906 source:c:\users\administrador\desktop\heitor\labirinto\labirinto_main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	"labirinto.h"
+
+1615256461 c:\users\administrador\desktop\heitor\labirinto\labirinto.h
+	<cmath>
+	<fstream>
+	<vector>
+
+1615315396 source:c:\users\administrador\desktop\heitor\labirinto\labirinto.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	<string>
+	<time.h>
+	<cmath>
+	<list>
+	<algorithm>
+	<vector>
+	"labirinto.h"
+
+1599082906 source:c:\users\heitor\desktop\ufrn\programação avançada\pathfinding\labirinto\labirinto_main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	"labirinto.h"
+
+1631703294 c:\users\heitor\desktop\ufrn\programação avançada\pathfinding\labirinto\labirinto.h
+	<cmath>
+	<fstream>
+	<vector>
+
+1631703294 source:c:\users\heitor\desktop\ufrn\programação avançada\pathfinding\labirinto\labirinto.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	<string>
+	<time.h>
+	<cmath>
+	<list>
+	<algorithm>
+	<vector>
+	"labirinto.h"
+
+1631703294 source:c:\users\heitor\desktop\ufrn\programação avançada\pathfinding\labirinto.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	<string>
+	<time.h>
+	<cmath>
+	<list>
+	<algorithm>
+	<vector>
+	"labirinto.h"
+
+1631703294 c:\users\heitor\desktop\ufrn\programação avançada\pathfinding\labirinto.h
+	<cmath>
+	<fstream>
+	<vector>
+
+1599082906 source:c:\users\heitor\desktop\ufrn\programação avançada\pathfinding\labirinto_main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	"labirinto.h"
+
