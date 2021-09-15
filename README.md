@@ -1,1 +1,1 @@
-Projetos desenvolvidos na linguagem C++ para a disciplina DCA1202 - Programação Avançada
+Projetos desenvolvidos na linguagem C++ para a disciplina DCA1202 - Programação Avançada da UFRN.
